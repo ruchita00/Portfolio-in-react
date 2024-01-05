@@ -16,10 +16,6 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 
 <img width="450px" src="https://github.com/ruchita00/Portfolio-in-react/assets/56263059/2f9145a8-464b-4cae-935d-057edd142927" />
 <img width="450px" src="https://github.com/ruchita00/Portfolio-in-react/assets/56263059/eb5a9a7c-6321-452d-b776-83e969b31746" />
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/0a33349f-262d-4720-afed-7afc0dfd85a5"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/92f2622f-0a7f-444a-8f60-6edeae7508dd"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/0e984e85-cbd9-487b-bf91-166009b39319"/>
-<img width="450px;" src="https://github.com/ruchita00/Portfolio-in-react/assets/56263059/eb5a9a7c-6321-452d-b776-83e969b31746"/>
 
 
 ## Table of Contents
