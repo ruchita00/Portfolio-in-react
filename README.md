@@ -3,25 +3,22 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 
 ### Weblink: [Live Website](https://rishavchanda.netlify.app)
 ## Some Images:
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/4774dc30-1c1c-4c6c-b23b-019f3481713e"/>
 <img width='450px' src="https://github.com/ruchita00/Portfolio-in-react/assets/56263059/6acbe11b-c8a0-464e-b9f1-45b9e6e65954" />
-![image](https://github.com/ruchita00/Portfolio-in-react/assets/56263059/d9f97390-2e15-4e53-a71d-7151bc33d74a)
-![image](https://github.com/ruchita00/Portfolio-in-react/assets/56263059/bb77d9bb-2583-4169-b064-b8e8bbcc58dc)
-![image](https://github.com/ruchita00/Portfolio-in-react/assets/56263059/d0f1f985-dd52-4c3d-9350-c37cf88f7665)
-![image](https://github.com/ruchita00/Portfolio-in-react/assets/56263059/946347cc-9abd-4124-b16f-127af3124a0f)
-![image](https://github.com/ruchita00/Portfolio-in-react/assets/56263059/0088072a-862c-4bee-827e-f928c1210d4c)
-![image](https://github.com/ruchita00/Portfolio-in-react/assets/56263059/44dcae7f-5952-40d5-be2b-8ed489f03b18)
+<img width='450px' src="https://github.com/ruchita00/Portfolio-in-react/assets/56263059/d9f97390-2e15-4e53-a71d-7151bc33d74a" />
+<img width='450px' src="https://github.com/ruchita00/Portfolio-in-react/assets/56263059/bb77d9bb-2583-4169-b064-b8e8bbcc58dc" />
+<img width='450px' src="(https://github.com/ruchita00/Portfolio-in-react/assets/56263059/d0f1f985-dd52-4c3d-9350-c37cf88f7665" />
+<img width='450px' src="https://github.com/ruchita00/Portfolio-in-react/assets/56263059/d0f1f985-dd52-4c3d-9350-c37cf88f7665" />
+<img width='450px' src="https://github.com/ruchita00/Portfolio-in-react/assets/56263059/d0f1f985-dd52-4c3d-9350-c37cf88f7665" />
+<img width='450px' src="https://github.com/ruchita00/Portfolio-in-react/assets/56263059/d0f1f985-dd52-4c3d-9350-c37cf88f7665"/>
+<img width='450px' src="https://github.com/ruchita00/Portfolio-in-react/assets/56263059/946347cc-9abd-4124-b16f-127af3124a0f" />
+<img width="450px" src="https://github.com/ruchita00/Portfolio-in-react/assets/56263059/0088072a-862c-4bee-827e-f928c1210d4c" />
+<img width="450px" src="https://github.com/ruchita00/Portfolio-in-react/assets/56263059/44dcae7f-5952-40d5-be2b-8ed489f03b18" />
 
-![image](https://github.com/ruchita00/Portfolio-in-react/assets/56263059/2f9145a8-464b-4cae-935d-057edd142927)
-![image](https://github.com/ruchita00/Portfolio-in-react/assets/56263059/eb5a9a7c-6321-452d-b776-83e969b31746)
-
-
-
-
+<img width="450px" src="https://github.com/ruchita00/Portfolio-in-react/assets/56263059/2f9145a8-464b-4cae-935d-057edd142927" />
+<img width="450px" src="https://github.com/ruchita00/Portfolio-in-react/assets/56263059/eb5a9a7c-6321-452d-b776-83e969b31746" />
 <img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/0a33349f-262d-4720-afed-7afc0dfd85a5"/>
 <img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/92f2622f-0a7f-444a-8f60-6edeae7508dd"/>
 <img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/0e984e85-cbd9-487b-bf91-166009b39319"/>
-<img width="450px;" src=""/>
 <img width="450px;" src="https://github.com/ruchita00/Portfolio-in-react/assets/56263059/eb5a9a7c-6321-452d-b776-83e969b31746"/>
 
 
