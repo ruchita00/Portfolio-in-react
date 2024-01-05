@@ -5,6 +5,10 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 ## Some Images:
 <img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/4774dc30-1c1c-4c6c-b23b-019f3481713e"/>
 <img width='450px' src="https://github.com/ruchita00/Portfolio-in-react/assets/56263059/6acbe11b-c8a0-464e-b9f1-45b9e6e65954" />
+![image](https://github.com/ruchita00/Portfolio-in-react/assets/56263059/d9f97390-2e15-4e53-a71d-7151bc33d74a)
+![image](https://github.com/ruchita00/Portfolio-in-react/assets/56263059/bb77d9bb-2583-4169-b064-b8e8bbcc58dc)
+
+
 
 <img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/0a33349f-262d-4720-afed-7afc0dfd85a5"/>
 <img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/92f2622f-0a7f-444a-8f60-6edeae7508dd"/>
