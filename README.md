@@ -6,7 +6,6 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 <img width='450px' src="https://github.com/ruchita00/Portfolio-in-react/assets/56263059/6acbe11b-c8a0-464e-b9f1-45b9e6e65954" />
 <img width='450px' src="https://github.com/ruchita00/Portfolio-in-react/assets/56263059/d9f97390-2e15-4e53-a71d-7151bc33d74a" />
 <img width='450px' src="https://github.com/ruchita00/Portfolio-in-react/assets/56263059/bb77d9bb-2583-4169-b064-b8e8bbcc58dc" />
-<img width='450px' src="(https://github.com/ruchita00/Portfolio-in-react/assets/56263059/d0f1f985-dd52-4c3d-9350-c37cf88f7665" />
 <img width='450px' src="https://github.com/ruchita00/Portfolio-in-react/assets/56263059/d0f1f985-dd52-4c3d-9350-c37cf88f7665" />
 <img width='450px' src="https://github.com/ruchita00/Portfolio-in-react/assets/56263059/d0f1f985-dd52-4c3d-9350-c37cf88f7665" />
 <img width='450px' src="https://github.com/ruchita00/Portfolio-in-react/assets/56263059/d0f1f985-dd52-4c3d-9350-c37cf88f7665"/>
