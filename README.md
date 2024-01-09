@@ -1,7 +1,6 @@
 # My Portfolio
 Welcome to my portfolio! This project showcases my skills, projects, and experiences as a web developer.
 
-### Weblink: [Live Website](https://rishavchanda.netlify.app)
 ## Some Images:
 <img width='450px' src="https://github.com/ruchita00/Portfolio-in-react/assets/56263059/6acbe11b-c8a0-464e-b9f1-45b9e6e65954" />
 <img width='450px' src="https://github.com/ruchita00/Portfolio-in-react/assets/56263059/d9f97390-2e15-4e53-a71d-7151bc33d74a" />
