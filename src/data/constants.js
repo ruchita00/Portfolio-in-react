@@ -5,14 +5,16 @@ import Passgenerator from "../images/passgenerator.png";
 import Youtube from "../images/Youtube.png";
 import expensetracker from "../images/expensetracker.png";
 import Udemy from "../images/Udemy.png";
+import Edusity from "../images/Edusity.png";
+
 export const Bio = {
   name: "Ruchita Sagalgile",
   roles: ["Frontend Developer", "Software Engineer-II", "Programmer"],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    "I am a dedicated front-end developer focused on creating attractive and user-friendly websites. I am passionate about translating design concepts into interactive digital experiences and continuously improving my skill set to stay updated with the latest industry trends. My portfolio showcases a variety of projects that demonstrate my ability to deliver responsive and dynamic web applications.",
   github: "https://github.com/ruchita00",
   resume:
-    "https://drive.google.com/file/d/1rEmQgp1WHBQJkPYvg1HEEERoFa0gzYPQ/view",
+    "https://drive.google.com/file/d/1ibrTcFl9G1IEfYaWB_fGZEQQxB3y9OoR/view",
   linkedin: "https://www.linkedin.com/in/ruchita-sagalgile-0a4843171/",
   twitter: "https://twitter.com/RuchitaSag61666",
   insta: "https://www.instagram.com/ruchita.sagalgile/",
@@ -262,6 +264,18 @@ export const education = [
 export const projects = [
   {
     id: 0,
+    title: "Edusity College Website",
+    date: "August 2024 - August 2024",
+    description:
+      "In this project, I gained experience in building and deploying a fully responsive website using React JS. The website is designed for a college or university, incorporating features such as smooth scrolling, a slider, and a functional contact form. The contact form is configured to send inquiries directly to your email address, ensuring seamless communication.",
+    image: Edusity,
+    tags: ["HTML", "CSS", "ReactJS"],
+    category: "web app",
+    github: "https://github.com/ruchita00/Edusity-Website",
+    webapp: "https://edusity-clg.netlify.app/",
+  },
+  {
+    id: 1,
     title: "YouTube Clone",
     date: "May 2023 - June 2023",
     description:
@@ -274,7 +288,7 @@ export const projects = [
       "https://65979d01c26065877a0186d1--illustrious-alfajores-780477.netlify.app/",
   },
   {
-    id: 5,
+    id: 2,
     title: "Udemy Clone",
     date: "Nov 2023 - Dec 2023",
     description:
@@ -294,7 +308,7 @@ export const projects = [
       "https://6597965a30869280b1b197bc--lighthearted-naiad-c5a206.netlify.app/",
   },
   {
-    id: 5,
+    id: 3,
     title: "Random password generator",
     date: "Nov 2023 - Dec 2023",
     description:
@@ -307,7 +321,7 @@ export const projects = [
   },
 
   {
-    id: 1,
+    id: 4,
     title: "Expense Tracker App",
     date: "May 2022 - April 2022",
     description:
@@ -319,7 +333,7 @@ export const projects = [
     webapp: "https://inquisitive-cactus-aade04.netlify.app/",
   },
   {
-    id: 4,
+    id: 5,
     title: "Quiz App",
     date: "Sep 2023 - Oct 2023",
     description:

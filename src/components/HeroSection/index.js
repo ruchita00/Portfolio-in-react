@@ -25,7 +25,7 @@ const HeroSection = () => {
           <HeroBgAnimation />
         </HeroBg>
         <HeroInnerContainer>
-          <HeroLeftContainer id="Left">
+          <HeroLeftContainer id="Left">n
             <Title>
               Hi, I am <br /> {Bio.name}
             </Title>
